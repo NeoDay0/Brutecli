@@ -1,35 +1,4 @@
 
-
- ____                 _          ____ _     ___ 
-| __ )  ___  __ _  __| | ___ _ _| __ ) |   |_ _|
-|  _ \ / _ \/ _` |/ _` |/ _ \ '__|  _ \ |    | | 
-| |_) |  __/ (_| | (_| |  __/ |  | |_) | |___| | 
-|____/ \___|\__,_|\__,_|\___|_|  |____/|_____|___|
-
-Protocol (ssh / ftp / http) [ssh]: 
-Target host/IP: 10.0.0.12
-Threads [4]: 8
-Timeout seconds [5]: 
-Single username (blank = userlist): root
-Custom passlist file (blank = built-in): rockyou-top100.txt
-SSH port [22]: 
-[•] 100 combos → SSH 10.0.0.12 (8 threads)
-[+] root:P@ssw0rd
-[✓] Finished in 1.2 s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Brutecli
 auto brute forcer 
 🎯 What It Does
